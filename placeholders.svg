@@ -1,0 +1,58 @@
+<!-- Project Placeholder Images as SVGs -->
+
+<!-- Project 1 - E-Commerce -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#3498db"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">E-Commerce</text>
+  <text x="200" y="110" font-size="16" text-anchor="middle" fill="white" font-family="Arial">Platform</text>
+  <circle cx="80" cy="160" r="30" fill="white" opacity="0.3"/>
+  <circle cx="320" cy="160" r="30" fill="white" opacity="0.3"/>
+</svg>
+
+<!-- Project 2 - Task Management -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#2ecc71"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Task</text>
+  <text x="200" y="110" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Management</text>
+  <rect x="80" y="140" width="240" height="40" fill="white" opacity="0.3" rx="5"/>
+</svg>
+
+<!-- Project 3 - Data Visualization -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#e74c3c"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Data</text>
+  <text x="200" y="110" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Visualization</text>
+  <rect x="60" y="130" width="15" height="50" fill="white" opacity="0.5"/>
+  <rect x="100" y="110" width="15" height="70" fill="white" opacity="0.5"/>
+  <rect x="140" y="90" width="15" height="90" fill="white" opacity="0.5"/>
+  <rect x="180" y="110" width="15" height="70" fill="white" opacity="0.5"/>
+  <rect x="220" y="130" width="15" height="50" fill="white" opacity="0.5"/>
+</svg>
+
+<!-- Project 4 - Weather App -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#f39c12"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Weather</text>
+  <text x="200" y="110" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">App</text>
+  <circle cx="200" cy="160" r="20" fill="white" opacity="0.3"/>
+  <line x1="200" y1="140" x2="200" y2="180" stroke="white" stroke-width="3" opacity="0.3"/>
+</svg>
+
+<!-- Project 5 - Social Media -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#9b59b6"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Social</text>
+  <text x="200" y="110" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Media Feed</text>
+  <rect x="70" y="135" width="260" height="50" fill="white" opacity="0.3" rx="5"/>
+</svg>
+
+<!-- Project 6 - Algorithm Visualizer -->
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="#1abc9c"/>
+  <text x="200" y="60" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Algorithm</text>
+  <text x="200" y="110" font-size="32" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Visualizer</text>
+  <rect x="80" y="140" width="20" height="20" fill="white" opacity="0.5"/>
+  <rect x="120" y="140" width="20" height="20" fill="white" opacity="0.6"/>
+  <rect x="160" y="140" width="20" height="20" fill="white" opacity="0.7"/>
+  <rect x="200" y="140" width="20" height="20" fill="white" opacity="0.8"/>
+</svg>
